@@ -18,7 +18,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class NewWordActivity extends AppCompatActivity {
 
-    public static final String EXTRA_REPLY = "com.example.android.wordlistsql.REPLY";
+    public static final String EXTRA_REPLY = "com.example.kahloun.wordlistsql.REPLY";
 
     private EditText mEditWordView;
 
